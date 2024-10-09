@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;margin: 0;
+    scroll-behavior: smooth;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.input-group{
+   max-width: 500px;
+}
+.darkimage{
+    width: 370px;
+    /* opacity: 0.6; */
+    border-radius: 20px;
+    /* border-style: none; */
+}
+.instructors{
+    width: 120px;
+}
